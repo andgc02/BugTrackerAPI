@@ -5,4 +5,4 @@ This is a simple Bug Tracker application built with ASP.NET Core and C#. It prov
      - ASP.NET Core
      - Entity Framework Core
      - In-memory Database
-     - REST APIs
+     - RESTful APIs
